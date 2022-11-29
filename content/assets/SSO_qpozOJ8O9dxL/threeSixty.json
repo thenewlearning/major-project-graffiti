@@ -1,0 +1,32 @@
+{
+  "version": "3.69.28997.0",
+  "course_id": "67ptoN3Yo9U",
+  "title": "What color scheme did you choose for your project?",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6fAszfgP517",
+      "title": "What color scheme did you choose for your project?",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6ZIn8rzDzdY",
+      "title": "Results Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
